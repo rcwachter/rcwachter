@@ -6,8 +6,6 @@ Aspiring global traveler
 
 Founder of <a href="https://studiovienas.com">Studio Vienas</a>
 
-Maryland is my home
-
 <a>![Maryland](https://user-images.githubusercontent.com/97169604/185527105-fa8ea676-b42c-4a27-8329-150c05f0c61b.png)</a>
 
 <a>![YouTube](https://img.shields.io/youtube/channel/subscribers/UCOIL-ml6EBbGv0H7o4DGaYw?color=ff0000&logo=youtube&logoColor=ff0000&style=for-the-badge)</a>
