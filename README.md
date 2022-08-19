@@ -1,6 +1,6 @@
-<h1>Welcome,</h1>
+<h1>Welcome</h1>
 
-Programmer, game developer, filmmaker, photographer, musician and content creator.
+Programmer, game developer, filmmaker, photographer, language learner, philosopher and musician.
 
 Founder of <a href="https://studiovienas.com">Studio Vienas</a>.
 
