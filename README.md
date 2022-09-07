@@ -1,6 +1,6 @@
 <h1>👋Welcome🌊</h1>
 
-🖥️ Programmer / 🎥 Filmmaker / 🎮 Game Developer / 📚 Language Learner / 🎸 Musician
+🖥️ Web Developer / 🎥 Videographer / 📸 Photographer / 🎮 Game Developer / 📚 Language Learner / 🎸 Musician
 
 🌍 Want to travel 🌏
 
