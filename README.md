@@ -4,7 +4,7 @@
 
 🌍 Want to travel 🌏
 
-Founder of <a>![Studio Vienas](https://user-images.githubusercontent.com/97169604/185527977-8429d3be-202b-4cb5-9c09-e88780f7b731.png)</a> <a href="https://studiovienas.com">Studio Vienas</a>
+Founder of <a>![Studio Vienas](https://user-images.githubusercontent.com/97169604/185527977-8429d3be-202b-4cb5-9c09-e88780f7b731.png)</a> <a href="https://studiovienas.com" target="_blank">Studio Vienas</a>
 
 <a>![Maryland](https://user-images.githubusercontent.com/97169604/185527105-fa8ea676-b42c-4a27-8329-150c05f0c61b.png)</a>
 
