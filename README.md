@@ -1,4 +1,4 @@
-<h1>👋Welcome🌊</h1>
+<h1>👋Welcome🌊ようこそ🗻</h1>
 
 🖥️ Web Developer / 📚 Language Learner / 🎸 Musician / 🎮 Game Dev
 
