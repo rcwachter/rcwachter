@@ -1,4 +1,5 @@
-<h1 align="center">Ryan Wachter・ワックター ライアン</h1>
+<h1 align="center">Ryan Wachter・<ruby>枠多<rt>ワクタ</rt></ruby> <ruby>瀬安<rt>ライアン</rt></ruby></h1>
+
 <h3 align="center">Programmer and language learner・プログラマーと言語学習者</h3>
 
 ---
