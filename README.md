@@ -1,4 +1,4 @@
-<h1 align="center">Ryan Wachter・<ruby>和久田<rt>ワクタ</rt></ruby> <ruby>雷庵<rt>レン
+<h1 align="center">Ryan Wachter・<ruby>和久田<rt>ワクタ</rt></ruby> <ruby>雷庵<rt>ライアン
 </rt></ruby></h1>
 
 <h3 align="center">Programmer and language learner・プログラマーと言語学習者</h3>
