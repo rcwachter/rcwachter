@@ -5,8 +5,6 @@
 
 ---
 
-- 🔭 I’m currently working on a language app called [Sudoto](https://sudoto.app)
-
 - 🌱 I’m currently polishing my **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://ryanwachter.com](https://ryanwachter.com)
@@ -16,8 +14,6 @@
 - ⚡ Fun fact: **I'm trying to pass the JLPT N1 this December (2024)**
 
 ---
-
-- 🔭 現在、言語アプリ「[Sudoto](https://sudoto.app)」に取り組んでいます
 
 - 🌱 最近、**Javascript**を磨いています
 
