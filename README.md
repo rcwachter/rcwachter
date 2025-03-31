@@ -9,9 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ryanwachter.com](https://ryanwachter.com)
 
-- 💬 Ask me about **AJATT**
-
-- ⚡ Fun fact: **I'm trying to pass the JLPT N1 this December (2024)**
+- ⚡ Fun fact: **I'm trying to pass the JLPT N1 this July (2025)**
 
 ---
 
@@ -19,9 +17,7 @@
 
 - 👨‍💻 私のすべてのプロジェクトは[https://ryanwachter.com](https://ryanwachter.com)で見られます
 
-- 💬 **AJATT**について聞いてください
-
-- ⚡ 面白い事実: **2024年12月にJLPT N1に合格しようとしています**
+- ⚡ 面白い事実: **2025年7月にJLPT N1に合格しようとしています**
 
 ---
 
